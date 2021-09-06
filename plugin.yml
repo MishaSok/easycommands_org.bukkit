@@ -1,0 +1,15 @@
+name: EasyCommands
+main: main.EasyCommands
+author: MishaSok
+website: https://github.com/MishaSok
+version: 1.0
+load: STARTUP
+commands:
+    info:
+    vanish:
+    v:
+    gm:
+    speed:
+    world:
+    end:
+    nether:
